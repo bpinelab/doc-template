@@ -1,0 +1,60 @@
+- name: Services
+  icon: fas fa-shopping-bag
+  url: service
+  links:
+    - name: Service Catalog
+      url: service/catalog
+    - name: Price
+      url: service/price
+    - name: Onboarding
+      url: service/onboarding
+- name: IT Service Management Framework
+  icon: fas fa-sitemap
+  url: technology
+  links:
+    - name: Operations Structure
+      url: itsm/operation
+    - name: Operations Platform Architecture
+      url: itsm/operation
+    - name: Key Success Indicators 
+      url: itsm/operation
+- name: Operational Procedures
+  icon: fas fa-gear
+  url: https://about.gitlab.com
+  links:
+    - name: Operations Platform Architecture
+      url: sop/manuals
+    - name: Operations Platform High-Level Design
+      url: sop/manuals
+    - name: Key Success Indicators
+      url: sop/manuals
+- name: Managed System Architecture
+  icon: fas fa-diagram-project
+  url: https://about.gitlab.com
+  links:
+    - name: System Architecture Diagram
+      url: technology
+    - name: High-Level Design Document
+      url: knowledge
+    - name: KPI
+      url: knowledge
+- name: Automation & Autonomy
+  icon: fas fa-robot
+  url: https://about.gitlab.com
+  links:
+    - name: Automation Strategy
+      url: technology
+    - name: Autonomy Roadmap
+      url: knowledge
+    - name: Changelog
+      url: knowledge
+- name: Knowledge Management
+  icon: fas fa-book
+  url: https://about.gitlab.com
+  links:
+    - name: Knowledge Base Operations Policy
+      url: technology
+    - name: Job Family
+      url: knowledge
+    - name: Changelog
+      url: knowledge
