@@ -1,28 +1,26 @@
 # How to Contribute
 
-We'd love to accept your patches and contributions to this project. There are
-just a few small guidelines you need to follow.
+We welcome contributions to this internal project. Please follow these guidelines
+when updating the codebase.
 
-## Contributor License Agreement
+## Internal Code Management Policy
 
-Contributions to this project must be accompanied by a Contributor License
-Agreement. You (or your employer) retain the copyright to your contribution;
-this simply gives us permission to use and redistribute your contributions as
-part of the project. Head over to <https://cla.developers.google.com/> to see
-your current agreements on file or to sign a new one.
+Contributions to this project must comply with our internal code management policies.
+The code copyright belongs to the company and external distribution is prohibited.
+All code changes must be properly tracked to ensure traceability.
 
-You generally only need to submit a CLA once, so if you've already submitted one
-(even if it was for a different project), you probably don't need to do it
-again.
+## Code Reviews
 
-## Code reviews
+All code changes, including those from project members, require review.
+Code reviews are conducted through our internal version control system.
+When requesting a review, please ensure:
 
-All submissions, including submissions by project members, require review. We
-use GitHub pull requests for this purpose. Consult
-[GitHub Help](https://help.github.com/articles/about-pull-requests/) for more
-information on using pull requests.
+- Clear explanation of changes and purpose
+- Include test coverage
+- Follow coding conventions
+- Verify no security concerns
 
-## Community Guidelines
+## Development Guidelines
 
-This project follows
-[Google's Open Source Community Guidelines](https://opensource.google.com/conduct/).
+This project follows our internal development guidelines.
+Please refer to the developer documentation on the company portal for details.
