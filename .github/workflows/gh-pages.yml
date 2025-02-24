@@ -5,13 +5,18 @@ on:
     branches:
       - main
 
+permissions:
+  contents: write  # gh-pagesブランチにpushするための権限
+  pages: write     # GitHub Pagesを利用するための権限
+  id-token: write  # OIDC認証を利用するための権限
+
 jobs:
   build:
     runs-on: ubuntu-latest
 
     steps:
       - name: Checkout repository
-        uses: actions/checkout@v2
+        uses: actions/checkout@v4  # v2 -> v4 に更新
 
       - name: Set up Hugo
         uses: peaceiris/actions-hugo@v2
@@ -41,7 +46,8 @@ jobs:
         run: hugo --minify
 
       - name: Deploy
-        uses: peaceiris/actions-gh-pages@v3
+        uses: peaceiris/actions-gh-pages@v4  # v3 -> v4 に更新
         with:
-          personal_token: ${{ secrets.ACTIONS_DEPLOY_KEY }}
+          github_token: ${{ secrets.GITHUB_TOKEN }}  # 修正: personal_token ではなく github_token を使用
+          publish_branch: gh-pages  # gh-pages ブランチにデプロイ
           publish_dir: ./public
