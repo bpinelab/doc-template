@@ -1,0 +1,173 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>オペレーション on Doc-template</title><link>https://bpinelab.github.io/doc-template/tags/%E3%82%AA%E3%83%9A%E3%83%AC%E3%83%BC%E3%82%B7%E3%83%A7%E3%83%B3/</link><description>Recent content in オペレーション on Doc-template</description><generator>Hugo</generator><language>ja</language><lastBuildDate>Mon, 24 Feb 2025 18:43:31 +0900</lastBuildDate><atom:link href="https://bpinelab.github.io/doc-template/tags/%E3%82%AA%E3%83%9A%E3%83%AC%E3%83%BC%E3%82%B7%E3%83%A7%E3%83%B3/index.xml" rel="self" type="application/rss+xml"/><item><title>運用手順書</title><link>https://bpinelab.github.io/doc-template/sop/manuals/catalog/</link><pubDate>Sat, 12 Oct 2024 00:00:00 +0000</pubDate><guid>https://bpinelab.github.io/doc-template/sop/manuals/catalog/</guid><description>&lt;h2 id="1-目的">1. 目的&lt;a class="td-heading-self-link" href="#1-%e7%9b%ae%e7%9a%84" aria-label="Heading self-link">&lt;/a>&lt;/h2>
+&lt;p>本 SOP は、日常の運用業務における標準的な手順を定め、サービスの品質を一貫して維
+持することを目的としています。システムの安定稼働、インシデント対応、定期的なメン
+テナンスなどの業務が適切に実行されるようにサポートします。&lt;/p>
+&lt;hr>
+&lt;h2 id="2-運用タスクのスケジュール">2. 運用タスクのスケジュール&lt;a class="td-heading-self-link" href="#2-%e9%81%8b%e7%94%a8%e3%82%bf%e3%82%b9%e3%82%af%e3%81%ae%e3%82%b9%e3%82%b1%e3%82%b8%e3%83%a5%e3%83%bc%e3%83%ab" aria-label="Heading self-link">&lt;/a>&lt;/h2>
+&lt;h3 id="21-日次運用タスク">2.1 日次運用タスク&lt;a class="td-heading-self-link" href="#21-%e6%97%a5%e6%ac%a1%e9%81%8b%e7%94%a8%e3%82%bf%e3%82%b9%e3%82%af" aria-label="Heading self-link">&lt;/a>&lt;/h3>
+&lt;ul>
+&lt;li>
+&lt;p>&lt;strong>サーバー状態確認&lt;/strong>&lt;/p>
+&lt;ul>
+&lt;li>タスク: サーバーの稼働状況とシステムログを確認し、異常がないかチェック&lt;/li>
+&lt;li>手順:
+&lt;ol>
+&lt;li>サーバーモニタリングツールを使用して、CPU、メモリ、ディスク使用率を確認&lt;/li>
+&lt;li>システムイベントログを確認し、エラーや警告が発生していないかチェック&lt;/li>
+&lt;li>異常が見つかった場合は、インシデントとして報告&lt;/li>
+&lt;/ol>
+&lt;/li>
+&lt;li>時間: 毎日午前 9 時&lt;/li>
+&lt;li>担当者: 運用エンジニア&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;strong>バックアップ確認&lt;/strong>&lt;/p>
+&lt;ul>
+&lt;li>タスク: 前日のデータバックアップの状態を確認&lt;/li>
+&lt;li>手順:
+&lt;ol>
+&lt;li>バックアップツールのログを確認し、バックアップが正常に完了しているか確認&lt;/li>
+&lt;li>エラーが発生している場合、再実行と原因分析を実施&lt;/li>
+&lt;li>報告書に記載し、必要に応じてエスカレーション&lt;/li>
+&lt;/ol>
+&lt;/li>
+&lt;li>時間: 毎日午前 10 時&lt;/li>
+&lt;li>担当者: バックアップ担当エンジニア&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;/ul>
+&lt;h3 id="22-週次運用タスク">2.2 週次運用タスク&lt;a class="td-heading-self-link" href="#22-%e9%80%b1%e6%ac%a1%e9%81%8b%e7%94%a8%e3%82%bf%e3%82%b9%e3%82%af" aria-label="Heading self-link">&lt;/a>&lt;/h3>
+&lt;ul>
+&lt;li>
+&lt;p>&lt;strong>パフォーマンスモニタリング&lt;/strong>&lt;/p>
+&lt;ul>
+&lt;li>タスク: サーバーおよびアプリケーションのパフォーマンス指標を確認し、ボトルネ
+ックを分析&lt;/li>
+&lt;li>手順:
+&lt;ol>
+&lt;li>監視ツールのレポートを週次で確認&lt;/li>
+&lt;li>高負荷状態が継続しているリソースがある場合、原因を特定し改善策を提案&lt;/li>
+&lt;li>週次レポートを作成し、チームに共有&lt;/li>
+&lt;/ol>
+&lt;/li>
+&lt;li>時間: 毎週月曜日午前 10 時&lt;/li>
+&lt;li>担当者: パフォーマンスエンジニア&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;strong>セキュリティパッチ適用&lt;/strong>&lt;/p>
+&lt;ul>
+&lt;li>タスク: サーバーおよびネットワークデバイスに最新のセキュリティパッチを適用&lt;/li>
+&lt;li>手順:
+&lt;ol>
+&lt;li>セキュリティチームから提供されたパッチ適用リストを確認&lt;/li>
+&lt;li>非業務時間にパッチ適用を計画し、適用後のシステム状態を確認&lt;/li>
+&lt;li>適用結果を記録し、問題があればエスカレーション&lt;/li>
+&lt;/ol>
+&lt;/li>
+&lt;li>時間: 毎週金曜日午後 8 時（非業務時間）&lt;/li>
+&lt;li>担当者: セキュリティエンジニア&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;/ul>
+&lt;hr>
+&lt;h2 id="3-インシデント対応手順">3. インシデント対応手順&lt;a class="td-heading-self-link" href="#3-%e3%82%a4%e3%83%b3%e3%82%b7%e3%83%87%e3%83%b3%e3%83%88%e5%af%be%e5%bf%9c%e6%89%8b%e9%a0%86" aria-label="Heading self-link">&lt;/a>&lt;/h2>
+&lt;h3 id="31-インシデント発生時の初期対応">3.1 インシデント発生時の初期対応&lt;a class="td-heading-self-link" href="#31-%e3%82%a4%e3%83%b3%e3%82%b7%e3%83%87%e3%83%b3%e3%83%88%e7%99%ba%e7%94%9f%e6%99%82%e3%81%ae%e5%88%9d%e6%9c%9f%e5%af%be%e5%bf%9c" aria-label="Heading self-link">&lt;/a>&lt;/h3>
+&lt;ul>
+&lt;li>
+&lt;p>&lt;strong>Critical インシデント&lt;/strong>&lt;/p></description></item><item><title>オンボーディング</title><link>https://bpinelab.github.io/doc-template/service/onboarding/</link><pubDate>Sun, 13 Oct 2024 00:00:00 +0000</pubDate><guid>https://bpinelab.github.io/doc-template/service/onboarding/</guid><description>&lt;h2 id="1-オンボーディングプロセス概要">1. オンボーディングプロセス概要&lt;a class="td-heading-self-link" href="#1-%e3%82%aa%e3%83%b3%e3%83%9c%e3%83%bc%e3%83%87%e3%82%a3%e3%83%b3%e3%82%b0%e3%83%97%e3%83%ad%e3%82%bb%e3%82%b9%e6%a6%82%e8%a6%81" aria-label="Heading self-link">&lt;/a>&lt;/h2>
+&lt;p>本プロセスでは、SAP S/4HANA ERPの運用・保守を適切に実施するために、サービスプロバイダからのシステム・運用情報の移管を行います。&lt;/p>
+&lt;h3 id="11-オンボーディングの目的">1.1 オンボーディングの目的&lt;a class="td-heading-self-link" href="#11-%e3%82%aa%e3%83%b3%e3%83%9c%e3%83%bc%e3%83%87%e3%82%a3%e3%83%b3%e3%82%b0%e3%81%ae%e7%9b%ae%e7%9a%84" aria-label="Heading self-link">&lt;/a>&lt;/h3>
+&lt;ul>
+&lt;li>運用・保守チームが適切にサービスを引き継ぎ、継続的な運用を実施できるようにする。&lt;/li>
+&lt;li>既存のサービスレベルを維持し、引継ぎ後の障害リスクを最小限に抑える。&lt;/li>
+&lt;li>運用プロセスやツールを明確化し、スムーズな保守業務を実施する。&lt;/li>
+&lt;/ul>
+&lt;h3 id="12-オンボーディング期間">1.2 オンボーディング期間&lt;a class="td-heading-self-link" href="#12-%e3%82%aa%e3%83%b3%e3%83%9c%e3%83%bc%e3%83%87%e3%82%a3%e3%83%b3%e3%82%b0%e6%9c%9f%e9%96%93" aria-label="Heading self-link">&lt;/a>&lt;/h3>
+&lt;ul>
+&lt;li>&lt;strong>標準期間&lt;/strong>: 3ヶ月（システム規模や複雑度により変動）&lt;/li>
+&lt;li>&lt;strong>フェーズ別期間&lt;/strong>:
+&lt;ul>
+&lt;li>フェーズ1: 事前調査（2週間）&lt;/li>
+&lt;li>フェーズ2: 情報受領・環境準備（4週間）&lt;/li>
+&lt;li>フェーズ3: 移管テスト・検証（4週間）&lt;/li>
+&lt;li>フェーズ4: 本番移管（2週間）&lt;/li>
+&lt;li>ハイパーケア期間: &lt;strong>2ヶ月&lt;/strong>&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;/ul>
+&lt;h2 id="2-オンボーディングのプロセス">2. オンボーディングのプロセス&lt;a class="td-heading-self-link" href="#2-%e3%82%aa%e3%83%b3%e3%83%9c%e3%83%bc%e3%83%87%e3%82%a3%e3%83%b3%e3%82%b0%e3%81%ae%e3%83%97%e3%83%ad%e3%82%bb%e3%82%b9" aria-label="Heading self-link">&lt;/a>&lt;/h2>
+&lt;h3 id="21-フェーズ1-事前調査">2.1 フェーズ1: 事前調査&lt;a class="td-heading-self-link" href="#21-%e3%83%95%e3%82%a7%e3%83%bc%e3%82%ba1-%e4%ba%8b%e5%89%8d%e8%aa%bf%e6%9f%bb" aria-label="Heading self-link">&lt;/a>&lt;/h3>
+&lt;ul>
+&lt;li>サービスプロバイダとのキックオフミーティング&lt;/li>
+&lt;li>現行運用フロー、システム構成のヒアリング&lt;/li>
+&lt;li>必要な受領ドキュメントの確認&lt;/li>
+&lt;/ul>
+&lt;h3 id="22-フェーズ2-情報受領環境準備">2.2 フェーズ2: 情報受領・環境準備&lt;a class="td-heading-self-link" href="#22-%e3%83%95%e3%82%a7%e3%83%bc%e3%82%ba2-%e6%83%85%e5%a0%b1%e5%8f%97%e9%a0%98%e7%92%b0%e5%a2%83%e6%ba%96%e5%82%99" aria-label="Heading self-link">&lt;/a>&lt;/h3>
+&lt;ul>
+&lt;li>運用手順書、アーキテクチャ図、権限設定情報の受領&lt;/li>
+&lt;li>監視・アラート設定の確認・構築&lt;/li>
+&lt;li>バックアップ・リカバリテストの実施&lt;/li>
+&lt;/ul>
+&lt;h3 id="23-フェーズ3-移管テスト検証">2.3 フェーズ3: 移管テスト・検証&lt;a class="td-heading-self-link" href="#23-%e3%83%95%e3%82%a7%e3%83%bc%e3%82%ba3-%e7%a7%bb%e7%ae%a1%e3%83%86%e3%82%b9%e3%83%88%e6%a4%9c%e8%a8%bc" aria-label="Heading self-link">&lt;/a>&lt;/h3>
+&lt;ul>
+&lt;li>&lt;strong>我々のマネージドサービスに従った運用・保守方法をサービスプロバイダに説明し、設計が適正に行われているか確認&lt;/strong>&lt;/li>
+&lt;li>インシデント発生時の対応訓練（模擬テスト）&lt;/li>
+&lt;li>変更管理、リリースプロセスの確認&lt;/li>
+&lt;li>&lt;strong>ITサービスに係る固有の定型運用や定期的な定常運用作業がある場合、ナレッジトランスファー、シャドーイング、リバースシャドーイングを実施&lt;/strong>&lt;/li>
+&lt;li>パフォーマンステストの実施&lt;/li>
+&lt;/ul>
+&lt;h3 id="24-フェーズ4-本番移管">2.4 フェーズ4: 本番移管&lt;a class="td-heading-self-link" href="#24-%e3%83%95%e3%82%a7%e3%83%bc%e3%82%ba4-%e6%9c%ac%e7%95%aa%e7%a7%bb%e7%ae%a1" aria-label="Heading self-link">&lt;/a>&lt;/h3>
+&lt;ul>
+&lt;li>サービス運用開始&lt;/li>
+&lt;li>移管後の問題対応・フィードバック収集&lt;/li>
+&lt;li>定例会議での運用改善議論&lt;/li>
+&lt;/ul>
+&lt;h3 id="25-ハイパーケア期間">2.5 ハイパーケア期間&lt;a class="td-heading-self-link" href="#25-%e3%83%8f%e3%82%a4%e3%83%91%e3%83%bc%e3%82%b1%e3%82%a2%e6%9c%9f%e9%96%93" aria-label="Heading self-link">&lt;/a>&lt;/h3>
+&lt;ul>
+&lt;li>運用開始後、&lt;strong>開発チームによるハイパーケアを2ヶ月間実施&lt;/strong>&lt;/li>
+&lt;li>ハイパーケア期間中は、開発チームと運用チームが密に連携し、運用上の課題を解決&lt;/li>
+&lt;li>&lt;strong>ハイパーケア完了基準を満たした場合、正式運用フェーズへ移行しハイパーケア終了&lt;/strong>&lt;/li>
+&lt;/ul>
+&lt;h4 id="ハイパーケア完了基準">ハイパーケア完了基準&lt;a class="td-heading-self-link" href="#%e3%83%8f%e3%82%a4%e3%83%91%e3%83%bc%e3%82%b1%e3%82%a2%e5%ae%8c%e4%ba%86%e5%9f%ba%e6%ba%96" aria-label="Heading self-link">&lt;/a>&lt;/h4>
+&lt;table>
+ &lt;thead>
+ &lt;tr>
+ &lt;th>項目&lt;/th>
+ &lt;th>基準値&lt;/th>
+ &lt;/tr>
+ &lt;/thead>
+ &lt;tbody>
+ &lt;tr>
+ &lt;td>バグ発生件数&lt;/td>
+ &lt;td>月間5件未満&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td>チケット発生件数&lt;/td>
+ &lt;td>月間50件未満&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td>残問題数&lt;/td>
+ &lt;td>3件以内&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td>ドキュメント引継ぎ率&lt;/td>
+ &lt;td>100%&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td>ナレッジトランスファー完了率&lt;/td>
+ &lt;td>100%&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td>シャドーイング完了率&lt;/td>
+ &lt;td>100%&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td>リバースシャドーイング完了率&lt;/td>
+ &lt;td>100%&lt;/td>
+ &lt;/tr>
+ &lt;/tbody>
+&lt;/table>
+&lt;h2 id="3-受領すべきドキュメント">3. 受領すべきドキュメント&lt;a class="td-heading-self-link" href="#3-%e5%8f%97%e9%a0%98%e3%81%99%e3%81%b9%e3%81%8d%e3%83%89%e3%82%ad%e3%83%a5%e3%83%a1%e3%83%b3%e3%83%88" aria-label="Heading self-link">&lt;/a>&lt;/h2>
+&lt;p>オンボーディング時には、以下のドキュメントを受領し、システム・運用情報の整理を行います。&lt;/p></description></item></channel></rss>

@@ -1,0 +1,447 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Services on Doc-template</title><link>https://bpinelab.github.io/doc-template/service/</link><description>Recent content in Services on Doc-template</description><generator>Hugo</generator><language>ja</language><atom:link href="https://bpinelab.github.io/doc-template/service/index.xml" rel="self" type="application/rss+xml"/><item><title>サービスカタログ</title><link>https://bpinelab.github.io/doc-template/service/catalog/</link><pubDate>Sat, 12 Oct 2024 00:00:00 +0000</pubDate><guid>https://bpinelab.github.io/doc-template/service/catalog/</guid><description>&lt;h2 id="1-サービス概要">1. サービス概要&lt;a class="td-heading-self-link" href="#1-%e3%82%b5%e3%83%bc%e3%83%93%e3%82%b9%e6%a6%82%e8%a6%81" aria-label="Heading self-link">&lt;/a>&lt;/h2>
+&lt;h3 id="11-サービス名称">1.1 サービス名称&lt;a class="td-heading-self-link" href="#11-%e3%82%b5%e3%83%bc%e3%83%93%e3%82%b9%e5%90%8d%e7%a7%b0" aria-label="Heading self-link">&lt;/a>&lt;/h3>
+&lt;p>&lt;strong>SAP S/4HANA ERP ITサービス運用保守代行&lt;/strong>&lt;/p>
+&lt;h3 id="12-サービス対象">1.2 サービス対象&lt;a class="td-heading-self-link" href="#12-%e3%82%b5%e3%83%bc%e3%83%93%e3%82%b9%e5%af%be%e8%b1%a1" aria-label="Heading self-link">&lt;/a>&lt;/h3>
+&lt;ul>
+&lt;li>&lt;strong>SAP S/4HANA ERPのサービスオーナー&lt;/strong>&lt;/li>
+&lt;li>&lt;strong>社内およびグループ会社向けにERPを提供する部門&lt;/strong>&lt;/li>
+&lt;/ul>
+&lt;h3 id="13-提供範囲">1.3 提供範囲&lt;a class="td-heading-self-link" href="#13-%e6%8f%90%e4%be%9b%e7%af%84%e5%9b%b2" aria-label="Heading self-link">&lt;/a>&lt;/h3>
+&lt;p>本サービスは、SAP S/4HANA ERPの&lt;strong>運用・保守業務の代行&lt;/strong>を行い、サービスオーナーの業務負担を軽減する。&lt;/p>
+&lt;p>提供する業務範囲:&lt;/p>
+&lt;ul>
+&lt;li>インシデント管理 (Incident Management)&lt;/li>
+&lt;li>問題管理 (Problem Management)&lt;/li>
+&lt;li>変更管理 (Change Management)&lt;/li>
+&lt;li>リリース管理 (Release Management)&lt;/li>
+&lt;li>ユーザー管理 (User Management)&lt;/li>
+&lt;li>クラウドインフラ監視・運用 (Azure SAP環境)&lt;/li>
+&lt;li>アプリケーションおよびOSの保守（不具合対応、パッチ適用、予防保守）&lt;/li>
+&lt;/ul>
+&lt;hr>
+&lt;h2 id="2-サービス仕様">2. サービス仕様&lt;a class="td-heading-self-link" href="#2-%e3%82%b5%e3%83%bc%e3%83%93%e3%82%b9%e4%bb%95%e6%a7%98" aria-label="Heading self-link">&lt;/a>&lt;/h2>
+&lt;h3 id="21-サポート業務一覧">2.1 サポート業務一覧&lt;a class="td-heading-self-link" href="#21-%e3%82%b5%e3%83%9d%e3%83%bc%e3%83%88%e6%a5%ad%e5%8b%99%e4%b8%80%e8%a6%a7" aria-label="Heading self-link">&lt;/a>&lt;/h3>
+&lt;table>
+ &lt;thead>
+ &lt;tr>
+ &lt;th>業務領域&lt;/th>
+ &lt;th>主な対応内容&lt;/th>
+ &lt;/tr>
+ &lt;/thead>
+ &lt;tbody>
+ &lt;tr>
+ &lt;td>インシデント管理&lt;/td>
+ &lt;td>ユーザー問い合わせ対応、障害切り分け、初動対応&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td>問題管理&lt;/td>
+ &lt;td>根本原因分析 (RCA)、再発防止策の策定&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td>変更管理&lt;/td>
+ &lt;td>変更リクエスト受付、影響分析、承認ワークフロー管理&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td>リリース管理&lt;/td>
+ &lt;td>定期/緊急リリースの調整、適用後の確認&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td>ユーザー管理&lt;/td>
+ &lt;td>アカウント登録・削除、アクセス権管理&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td>クラウド運用&lt;/td>
+ &lt;td>Azure環境の監視、バックアップ、パフォーマンス管理&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td>アプリケーション・OS保守&lt;/td>
+ &lt;td>不具合対応、パッチ適用、予防保守&lt;/td>
+ &lt;/tr>
+ &lt;/tbody>
+&lt;/table>
+&lt;h3 id="22-サポート対象範囲">2.2 サポート対象範囲&lt;a class="td-heading-self-link" href="#22-%e3%82%b5%e3%83%9d%e3%83%bc%e3%83%88%e5%af%be%e8%b1%a1%e7%af%84%e5%9b%b2" aria-label="Heading self-link">&lt;/a>&lt;/h3>
+&lt;ul>
+&lt;li>&lt;strong>SAP S/4HANA ERPの運用に関する全般的なサポート&lt;/strong>&lt;/li>
+&lt;li>&lt;strong>オンプレミス・クラウド (Azure) のインフラ管理&lt;/strong>&lt;/li>
+&lt;li>&lt;strong>ERPアプリケーションの設定変更・調整&lt;/strong>&lt;/li>
+&lt;li>&lt;strong>OSおよびアプリケーションの定期的な保守・パッチ適用&lt;/strong>&lt;/li>
+&lt;/ul>
+&lt;h3 id="23-監視通知">2.3 監視・通知&lt;a class="td-heading-self-link" href="#23-%e7%9b%a3%e8%a6%96%e9%80%9a%e7%9f%a5" aria-label="Heading self-link">&lt;/a>&lt;/h3>
+&lt;ul>
+&lt;li>&lt;strong>24時間365日監視 (オプション対応可)&lt;/strong>&lt;/li>
+&lt;li>&lt;strong>異常検知時の自動アラート発報 (Azure Monitor, SAP Solution Manager利用)&lt;/strong>&lt;/li>
+&lt;li>&lt;strong>レポート提供 (月次・週次対応可)&lt;/strong>&lt;/li>
+&lt;/ul>
+&lt;hr>
+&lt;h2 id="3-サービス提供時間sla">3. サービス提供時間・SLA&lt;a class="td-heading-self-link" href="#3-%e3%82%b5%e3%83%bc%e3%83%93%e3%82%b9%e6%8f%90%e4%be%9b%e6%99%82%e9%96%93sla" aria-label="Heading self-link">&lt;/a>&lt;/h2>
+&lt;h3 id="31-運用時間">3.1 運用時間&lt;a class="td-heading-self-link" href="#31-%e9%81%8b%e7%94%a8%e6%99%82%e9%96%93" aria-label="Heading self-link">&lt;/a>&lt;/h3>
+&lt;table>
+ &lt;thead>
+ &lt;tr>
+ &lt;th>サービス項目&lt;/th>
+ &lt;th>提供時間&lt;/th>
+ &lt;/tr>
+ &lt;/thead>
+ &lt;tbody>
+ &lt;tr>
+ &lt;td>通常運用&lt;/td>
+ &lt;td>24時間365日&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td>サポート受付&lt;/td>
+ &lt;td>平日 09:00 - 18:00&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td>メンテナンス時間&lt;/td>
+ &lt;td>毎月第2土曜 02:00 - 06:00&lt;/td>
+ &lt;/tr>
+ &lt;/tbody>
+&lt;/table>
+&lt;h3 id="32-sla-service-level-agreement">3.2 SLA (Service Level Agreement)&lt;a class="td-heading-self-link" href="#32-sla-service-level-agreement" aria-label="Heading self-link">&lt;/a>&lt;/h3>
+&lt;table>
+ &lt;thead>
+ &lt;tr>
+ &lt;th>指標&lt;/th>
+ &lt;th>目標値&lt;/th>
+ &lt;/tr>
+ &lt;/thead>
+ &lt;tbody>
+ &lt;tr>
+ &lt;td>サービス可用性&lt;/td>
+ &lt;td>99.9% / 月&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td>インシデント初動対応時間&lt;/td>
+ &lt;td>30分以内 (高優先度)&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td>問題解決時間&lt;/td>
+ &lt;td>4時間以内 (重大障害)&lt;/td>
+ &lt;/tr>
+ &lt;/tbody>
+&lt;/table>
+&lt;hr>
+&lt;h2 id="4-サポート運用体制">4. サポート・運用体制&lt;a class="td-heading-self-link" href="#4-%e3%82%b5%e3%83%9d%e3%83%bc%e3%83%88%e9%81%8b%e7%94%a8%e4%bd%93%e5%88%b6" aria-label="Heading self-link">&lt;/a>&lt;/h2>
+&lt;h3 id="41-問い合わせ窓口">4.1 問い合わせ窓口&lt;a class="td-heading-self-link" href="#41-%e5%95%8f%e3%81%84%e5%90%88%e3%82%8f%e3%81%9b%e7%aa%93%e5%8f%a3" aria-label="Heading self-link">&lt;/a>&lt;/h3>
+&lt;ul>
+&lt;li>&lt;strong>ヘルプデスク&lt;/strong>: &lt;a href="mailto:support@company.com">support@company.com&lt;/a>&lt;/li>
+&lt;li>&lt;strong>電話サポート&lt;/strong>: 0120-XXX-XXX (平日 09:00 - 18:00)&lt;/li>
+&lt;/ul>
+&lt;h3 id="42-インシデント管理フロー">4.2 インシデント管理フロー&lt;a class="td-heading-self-link" href="#42-%e3%82%a4%e3%83%b3%e3%82%b7%e3%83%87%e3%83%b3%e3%83%88%e7%ae%a1%e7%90%86%e3%83%95%e3%83%ad%e3%83%bc" aria-label="Heading self-link">&lt;/a>&lt;/h3>
+&lt;ol>
+&lt;li>サービスオーナーからの問い合わせ受付（メール/電話/ポータル）&lt;/li>
+&lt;li>ヘルプデスクが一次対応&lt;/li>
+&lt;li>問題の切り分け
+&lt;ul>
+&lt;li>&lt;strong>アプリケーション障害&lt;/strong>: SAPサポートチームへエスカレーション&lt;/li>
+&lt;li>&lt;strong>インフラ障害&lt;/strong>: クラウド運用チームへエスカレーション&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;li>解決後、サービスオーナーへ報告&lt;/li>
+&lt;li>知識ベース (KB) に記録&lt;/li>
+&lt;/ol>
+&lt;h3 id="43-変更管理リリース管理">4.3 変更管理・リリース管理&lt;a class="td-heading-self-link" href="#43-%e5%a4%89%e6%9b%b4%e7%ae%a1%e7%90%86%e3%83%aa%e3%83%aa%e3%83%bc%e3%82%b9%e7%ae%a1%e7%90%86" aria-label="Heading self-link">&lt;/a>&lt;/h3>
+&lt;ul>
+&lt;li>&lt;strong>定期リリース&lt;/strong>: 3ヶ月ごとのバージョンアップ&lt;/li>
+&lt;li>&lt;strong>緊急リリース&lt;/strong>: 重大障害発生時に随時対応&lt;/li>
+&lt;li>&lt;strong>変更リクエスト受付&lt;/strong>: Jira チケットシステムを利用&lt;/li>
+&lt;/ul>
+&lt;hr>
+&lt;h2 id="5-利用条件ポリシー">5. 利用条件・ポリシー&lt;a class="td-heading-self-link" href="#5-%e5%88%a9%e7%94%a8%e6%9d%a1%e4%bb%b6%e3%83%9d%e3%83%aa%e3%82%b7%e3%83%bc" aria-label="Heading self-link">&lt;/a>&lt;/h2>
+&lt;h3 id="51-サービス利用契約">5.1 サービス利用契約&lt;a class="td-heading-self-link" href="#51-%e3%82%b5%e3%83%bc%e3%83%93%e3%82%b9%e5%88%a9%e7%94%a8%e5%a5%91%e7%b4%84" aria-label="Heading self-link">&lt;/a>&lt;/h3>
+&lt;ul>
+&lt;li>契約期間: &lt;strong>最低1年間の利用契約が必要&lt;/strong>&lt;/li>
+&lt;li>契約更新: &lt;strong>3ヶ月前に更新可否の確認&lt;/strong>&lt;/li>
+&lt;li>サービス範囲の変更: &lt;strong>追加要件は別途相談可能&lt;/strong>&lt;/li>
+&lt;/ul>
+&lt;h3 id="52-データ管理ポリシー">5.2 データ管理ポリシー&lt;a class="td-heading-self-link" href="#52-%e3%83%87%e3%83%bc%e3%82%bf%e7%ae%a1%e7%90%86%e3%83%9d%e3%83%aa%e3%82%b7%e3%83%bc" aria-label="Heading self-link">&lt;/a>&lt;/h3>
+&lt;ul>
+&lt;li>&lt;strong>データ保持期間&lt;/strong>: 財務データ 10年、ログデータ 2年&lt;/li>
+&lt;li>&lt;strong>削除ポリシー&lt;/strong>: 管理者の承認のもと削除可能&lt;/li>
+&lt;/ul>
+&lt;h3 id="53-禁止事項">5.3 禁止事項&lt;a class="td-heading-self-link" href="#53-%e7%a6%81%e6%ad%a2%e4%ba%8b%e9%a0%85" aria-label="Heading self-link">&lt;/a>&lt;/h3>
+&lt;ul>
+&lt;li>未承認の変更作業&lt;/li>
+&lt;li>不正アクセス・情報漏洩&lt;/li>
+&lt;li>事前通知なしのリリース適用&lt;/li>
+&lt;/ul>
+&lt;hr>
+&lt;h2 id="6-付録参考資料">6. 付録・参考資料&lt;a class="td-heading-self-link" href="#6-%e4%bb%98%e9%8c%b2%e5%8f%82%e8%80%83%e8%b3%87%e6%96%99" aria-label="Heading self-link">&lt;/a>&lt;/h2>
+&lt;ul>
+&lt;li>&lt;a href="https://help.sap.com/viewer/product/SAP_S4HANA">SAP S/4HANA公式ドキュメント&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://learn.microsoft.com/en-us/azure/sap/">Azure上のSAP運用ガイド&lt;/a>&lt;/li>
+&lt;/ul></description></item><item><title>料金</title><link>https://bpinelab.github.io/doc-template/service/price/</link><pubDate>Sun, 13 Oct 2024 00:00:00 +0000</pubDate><guid>https://bpinelab.github.io/doc-template/service/price/</guid><description>&lt;h2 id="1-料金概要">1. 料金概要&lt;a class="td-heading-self-link" href="#1-%e6%96%99%e9%87%91%e6%a6%82%e8%a6%81" aria-label="Heading self-link">&lt;/a>&lt;/h2>
+&lt;p>当社のマネージドサービス料金は、クライアントのシステム規模、要求されるサポートレベル、利用頻度、作業工数に応じて柔軟に設定されています。料金は、以下の要素に基づいて決定されます。&lt;/p>
+&lt;ul>
+&lt;li>&lt;strong>システム規模:&lt;/strong> 管理するサーバー数、ネットワークデバイス数、アプリケーション数に基づく基本料金&lt;/li>
+&lt;li>&lt;strong>サポートレベル:&lt;/strong> SLA（サービスレベルアグリーメント）に基づく対応時間およびサポート体制&lt;/li>
+&lt;li>&lt;strong>定型作業の工数:&lt;/strong> 月間の標準的な運用作業（定期点検、バックアップ管理など）にかかる時間&lt;/li>
+&lt;li>&lt;strong>バグによるアプリケーション修正:&lt;/strong> 月間で発生するアプリケーションの不具合対応工数&lt;/li>
+&lt;li>&lt;strong>ユーザーからの問い合わせ:&lt;/strong> 受付チケット数に応じた料金（ヘルプデスク対応）&lt;/li>
+&lt;li>&lt;strong>追加サービス:&lt;/strong> セキュリティ管理やコンサルティングサービスなどのオプション追加&lt;/li>
+&lt;/ul>
+&lt;h2 id="2-基本料金">2. 基本料金&lt;a class="td-heading-self-link" href="#2-%e5%9f%ba%e6%9c%ac%e6%96%99%e9%87%91" aria-label="Heading self-link">&lt;/a>&lt;/h2>
+&lt;h3 id="21-システム規模に応じた料金">2.1 システム規模に応じた料金&lt;a class="td-heading-self-link" href="#21-%e3%82%b7%e3%82%b9%e3%83%86%e3%83%a0%e8%a6%8f%e6%a8%a1%e3%81%ab%e5%bf%9c%e3%81%98%e3%81%9f%e6%96%99%e9%87%91" aria-label="Heading self-link">&lt;/a>&lt;/h3>
+&lt;table>
+ &lt;thead>
+ &lt;tr>
+ &lt;th>規模&lt;/th>
+ &lt;th>サーバー台数&lt;/th>
+ &lt;th>ネットワークデバイス数&lt;/th>
+ &lt;th>月額料金 (税抜)&lt;/th>
+ &lt;th>提供内容&lt;/th>
+ &lt;/tr>
+ &lt;/thead>
+ &lt;tbody>
+ &lt;tr>
+ &lt;td>小規模&lt;/td>
+ &lt;td>1-10 台&lt;/td>
+ &lt;td>1-5 台&lt;/td>
+ &lt;td>¥1,500,000 ～&lt;/td>
+ &lt;td>24 時間 365 日監視、インシデント管理、月次レポート&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td>中規模&lt;/td>
+ &lt;td>11-50 台&lt;/td>
+ &lt;td>6-20 台&lt;/td>
+ &lt;td>¥3,000,000 ～&lt;/td>
+ &lt;td>24 時間 365 日監視、インシデント管理、変更管理、週次レポート&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td>大規模&lt;/td>
+ &lt;td>50 台以上&lt;/td>
+ &lt;td>20 台以上&lt;/td>
+ &lt;td>¥6,000,000 ～&lt;/td>
+ &lt;td>24 時間 365 日監視、インシデント管理、問題管理、変更管理、日次レポート&lt;/td>
+ &lt;/tr>
+ &lt;/tbody>
+&lt;/table>
+&lt;h2 id="3-サポートレベル">3. サポートレベル&lt;a class="td-heading-self-link" href="#3-%e3%82%b5%e3%83%9d%e3%83%bc%e3%83%88%e3%83%ac%e3%83%99%e3%83%ab" aria-label="Heading self-link">&lt;/a>&lt;/h2>
+&lt;h3 id="31-slaサービスレベルアグリーメントに基づく料金">3.1 SLA（サービスレベルアグリーメント）に基づく料金&lt;a class="td-heading-self-link" href="#31-sla%e3%82%b5%e3%83%bc%e3%83%93%e3%82%b9%e3%83%ac%e3%83%99%e3%83%ab%e3%82%a2%e3%82%b0%e3%83%aa%e3%83%bc%e3%83%a1%e3%83%b3%e3%83%88%e3%81%ab%e5%9f%ba%e3%81%a5%e3%81%8f%e6%96%99%e9%87%91" aria-label="Heading self-link">&lt;/a>&lt;/h3>
+&lt;table>
+ &lt;thead>
+ &lt;tr>
+ &lt;th>サポートレベル&lt;/th>
+ &lt;th>月額追加料金&lt;/th>
+ &lt;th>応答時間&lt;/th>
+ &lt;th>復旧時間&lt;/th>
+ &lt;/tr>
+ &lt;/thead>
+ &lt;tbody>
+ &lt;tr>
+ &lt;td>標準サポート&lt;/td>
+ &lt;td>月額料金に含まれる&lt;/td>
+ &lt;td>4時間以内&lt;/td>
+ &lt;td>1営業日以内&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td>優先サポート&lt;/td>
+ &lt;td>+¥1,000,000&lt;/td>
+ &lt;td>1時間以内&lt;/td>
+ &lt;td>4時間以内&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td>プレミアムサポート&lt;/td>
+ &lt;td>+¥2,000,000&lt;/td>
+ &lt;td>30分以内&lt;/td>
+ &lt;td>2時間以内&lt;/td>
+ &lt;/tr>
+ &lt;/tbody>
+&lt;/table>
+&lt;h2 id="4-追加料金体系">4. 追加料金体系&lt;a class="td-heading-self-link" href="#4-%e8%bf%bd%e5%8a%a0%e6%96%99%e9%87%91%e4%bd%93%e7%b3%bb" aria-label="Heading self-link">&lt;/a>&lt;/h2>
+&lt;h3 id="41-定型作業の工数に応じた料金">4.1 定型作業の工数に応じた料金&lt;a class="td-heading-self-link" href="#41-%e5%ae%9a%e5%9e%8b%e4%bd%9c%e6%a5%ad%e3%81%ae%e5%b7%a5%e6%95%b0%e3%81%ab%e5%bf%9c%e3%81%98%e3%81%9f%e6%96%99%e9%87%91" aria-label="Heading self-link">&lt;/a>&lt;/h3>
+&lt;table>
+ &lt;thead>
+ &lt;tr>
+ &lt;th>作業時間 (月間)&lt;/th>
+ &lt;th>追加料金&lt;/th>
+ &lt;/tr>
+ &lt;/thead>
+ &lt;tbody>
+ &lt;tr>
+ &lt;td>10時間未満&lt;/td>
+ &lt;td>¥0&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td>10-20時間&lt;/td>
+ &lt;td>+¥500,000&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td>20-50時間&lt;/td>
+ &lt;td>+¥1,000,000&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td>50時間以上&lt;/td>
+ &lt;td>+¥2,000,000&lt;/td>
+ &lt;/tr>
+ &lt;/tbody>
+&lt;/table>
+&lt;h3 id="42-バグ修正対応">4.2 バグ修正対応&lt;a class="td-heading-self-link" href="#42-%e3%83%90%e3%82%b0%e4%bf%ae%e6%ad%a3%e5%af%be%e5%bf%9c" aria-label="Heading self-link">&lt;/a>&lt;/h3>
+&lt;table>
+ &lt;thead>
+ &lt;tr>
+ &lt;th>修正件数 (月間)&lt;/th>
+ &lt;th>追加料金&lt;/th>
+ &lt;/tr>
+ &lt;/thead>
+ &lt;tbody>
+ &lt;tr>
+ &lt;td>5件未満&lt;/td>
+ &lt;td>¥0&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td>5-10件&lt;/td>
+ &lt;td>+¥500,000&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td>10-20件&lt;/td>
+ &lt;td>+¥100,000&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td>20件以上&lt;/td>
+ &lt;td>+¥200,000&lt;/td>
+ &lt;/tr>
+ &lt;/tbody>
+&lt;/table>
+&lt;h3 id="43-ユーザー問い合わせ対応-チケット数ベース">4.3 ユーザー問い合わせ対応 (チケット数ベース)&lt;a class="td-heading-self-link" href="#43-%e3%83%a6%e3%83%bc%e3%82%b6%e3%83%bc%e5%95%8f%e3%81%84%e5%90%88%e3%82%8f%e3%81%9b%e5%af%be%e5%bf%9c-%e3%83%81%e3%82%b1%e3%83%83%e3%83%88%e6%95%b0%e3%83%99%e3%83%bc%e3%82%b9" aria-label="Heading self-link">&lt;/a>&lt;/h3>
+&lt;table>
+ &lt;thead>
+ &lt;tr>
+ &lt;th>受付チケット数 (月間)&lt;/th>
+ &lt;th>追加料金&lt;/th>
+ &lt;/tr>
+ &lt;/thead>
+ &lt;tbody>
+ &lt;tr>
+ &lt;td>50件未満&lt;/td>
+ &lt;td>¥0&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td>50-100件&lt;/td>
+ &lt;td>+¥50,000&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td>100-200件&lt;/td>
+ &lt;td>+¥100,000&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td>200件以上&lt;/td>
+ &lt;td>+¥200,000&lt;/td>
+ &lt;/tr>
+ &lt;/tbody>
+&lt;/table>
+&lt;h2 id="5-追加オプション">5. 追加オプション&lt;a class="td-heading-self-link" href="#5-%e8%bf%bd%e5%8a%a0%e3%82%aa%e3%83%97%e3%82%b7%e3%83%a7%e3%83%b3" aria-label="Heading self-link">&lt;/a>&lt;/h2>
+&lt;h3 id="51-セキュリティ管理オプション">5.1 セキュリティ管理オプション&lt;a class="td-heading-self-link" href="#51-%e3%82%bb%e3%82%ad%e3%83%a5%e3%83%aa%e3%83%86%e3%82%a3%e7%ae%a1%e7%90%86%e3%82%aa%e3%83%97%e3%82%b7%e3%83%a7%e3%83%b3" aria-label="Heading self-link">&lt;/a>&lt;/h3>
+&lt;table>
+ &lt;thead>
+ &lt;tr>
+ &lt;th>オプション&lt;/th>
+ &lt;th>月額料金&lt;/th>
+ &lt;/tr>
+ &lt;/thead>
+ &lt;tbody>
+ &lt;tr>
+ &lt;td>基本セキュリティパッケージ&lt;/td>
+ &lt;td>¥50,000&lt;/td>
+ &lt;/tr>
+ &lt;/tbody>
+&lt;/table>
+&lt;h2 id="6-付録参考資料">6. 付録・参考資料&lt;a class="td-heading-self-link" href="#6-%e4%bb%98%e9%8c%b2%e5%8f%82%e8%80%83%e8%b3%87%e6%96%99" aria-label="Heading self-link">&lt;/a>&lt;/h2>
+&lt;ul>
+&lt;li>&lt;a href="https://help.sap.com/viewer/product/SAP_S4HANA">SAP S/4HANA公式ドキュメント&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://learn.microsoft.com/en-us/azure/sap/">Azure上のSAP運用ガイド&lt;/a>&lt;/li>
+&lt;/ul></description></item><item><title>オンボーディング</title><link>https://bpinelab.github.io/doc-template/service/onboarding/</link><pubDate>Sun, 13 Oct 2024 00:00:00 +0000</pubDate><guid>https://bpinelab.github.io/doc-template/service/onboarding/</guid><description>&lt;h2 id="1-オンボーディングプロセス概要">1. オンボーディングプロセス概要&lt;a class="td-heading-self-link" href="#1-%e3%82%aa%e3%83%b3%e3%83%9c%e3%83%bc%e3%83%87%e3%82%a3%e3%83%b3%e3%82%b0%e3%83%97%e3%83%ad%e3%82%bb%e3%82%b9%e6%a6%82%e8%a6%81" aria-label="Heading self-link">&lt;/a>&lt;/h2>
+&lt;p>本プロセスでは、SAP S/4HANA ERPの運用・保守を適切に実施するために、サービスプロバイダからのシステム・運用情報の移管を行います。&lt;/p>
+&lt;h3 id="11-オンボーディングの目的">1.1 オンボーディングの目的&lt;a class="td-heading-self-link" href="#11-%e3%82%aa%e3%83%b3%e3%83%9c%e3%83%bc%e3%83%87%e3%82%a3%e3%83%b3%e3%82%b0%e3%81%ae%e7%9b%ae%e7%9a%84" aria-label="Heading self-link">&lt;/a>&lt;/h3>
+&lt;ul>
+&lt;li>運用・保守チームが適切にサービスを引き継ぎ、継続的な運用を実施できるようにする。&lt;/li>
+&lt;li>既存のサービスレベルを維持し、引継ぎ後の障害リスクを最小限に抑える。&lt;/li>
+&lt;li>運用プロセスやツールを明確化し、スムーズな保守業務を実施する。&lt;/li>
+&lt;/ul>
+&lt;h3 id="12-オンボーディング期間">1.2 オンボーディング期間&lt;a class="td-heading-self-link" href="#12-%e3%82%aa%e3%83%b3%e3%83%9c%e3%83%bc%e3%83%87%e3%82%a3%e3%83%b3%e3%82%b0%e6%9c%9f%e9%96%93" aria-label="Heading self-link">&lt;/a>&lt;/h3>
+&lt;ul>
+&lt;li>&lt;strong>標準期間&lt;/strong>: 3ヶ月（システム規模や複雑度により変動）&lt;/li>
+&lt;li>&lt;strong>フェーズ別期間&lt;/strong>:
+&lt;ul>
+&lt;li>フェーズ1: 事前調査（2週間）&lt;/li>
+&lt;li>フェーズ2: 情報受領・環境準備（4週間）&lt;/li>
+&lt;li>フェーズ3: 移管テスト・検証（4週間）&lt;/li>
+&lt;li>フェーズ4: 本番移管（2週間）&lt;/li>
+&lt;li>ハイパーケア期間: &lt;strong>2ヶ月&lt;/strong>&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;/ul>
+&lt;h2 id="2-オンボーディングのプロセス">2. オンボーディングのプロセス&lt;a class="td-heading-self-link" href="#2-%e3%82%aa%e3%83%b3%e3%83%9c%e3%83%bc%e3%83%87%e3%82%a3%e3%83%b3%e3%82%b0%e3%81%ae%e3%83%97%e3%83%ad%e3%82%bb%e3%82%b9" aria-label="Heading self-link">&lt;/a>&lt;/h2>
+&lt;h3 id="21-フェーズ1-事前調査">2.1 フェーズ1: 事前調査&lt;a class="td-heading-self-link" href="#21-%e3%83%95%e3%82%a7%e3%83%bc%e3%82%ba1-%e4%ba%8b%e5%89%8d%e8%aa%bf%e6%9f%bb" aria-label="Heading self-link">&lt;/a>&lt;/h3>
+&lt;ul>
+&lt;li>サービスプロバイダとのキックオフミーティング&lt;/li>
+&lt;li>現行運用フロー、システム構成のヒアリング&lt;/li>
+&lt;li>必要な受領ドキュメントの確認&lt;/li>
+&lt;/ul>
+&lt;h3 id="22-フェーズ2-情報受領環境準備">2.2 フェーズ2: 情報受領・環境準備&lt;a class="td-heading-self-link" href="#22-%e3%83%95%e3%82%a7%e3%83%bc%e3%82%ba2-%e6%83%85%e5%a0%b1%e5%8f%97%e9%a0%98%e7%92%b0%e5%a2%83%e6%ba%96%e5%82%99" aria-label="Heading self-link">&lt;/a>&lt;/h3>
+&lt;ul>
+&lt;li>運用手順書、アーキテクチャ図、権限設定情報の受領&lt;/li>
+&lt;li>監視・アラート設定の確認・構築&lt;/li>
+&lt;li>バックアップ・リカバリテストの実施&lt;/li>
+&lt;/ul>
+&lt;h3 id="23-フェーズ3-移管テスト検証">2.3 フェーズ3: 移管テスト・検証&lt;a class="td-heading-self-link" href="#23-%e3%83%95%e3%82%a7%e3%83%bc%e3%82%ba3-%e7%a7%bb%e7%ae%a1%e3%83%86%e3%82%b9%e3%83%88%e6%a4%9c%e8%a8%bc" aria-label="Heading self-link">&lt;/a>&lt;/h3>
+&lt;ul>
+&lt;li>&lt;strong>我々のマネージドサービスに従った運用・保守方法をサービスプロバイダに説明し、設計が適正に行われているか確認&lt;/strong>&lt;/li>
+&lt;li>インシデント発生時の対応訓練（模擬テスト）&lt;/li>
+&lt;li>変更管理、リリースプロセスの確認&lt;/li>
+&lt;li>&lt;strong>ITサービスに係る固有の定型運用や定期的な定常運用作業がある場合、ナレッジトランスファー、シャドーイング、リバースシャドーイングを実施&lt;/strong>&lt;/li>
+&lt;li>パフォーマンステストの実施&lt;/li>
+&lt;/ul>
+&lt;h3 id="24-フェーズ4-本番移管">2.4 フェーズ4: 本番移管&lt;a class="td-heading-self-link" href="#24-%e3%83%95%e3%82%a7%e3%83%bc%e3%82%ba4-%e6%9c%ac%e7%95%aa%e7%a7%bb%e7%ae%a1" aria-label="Heading self-link">&lt;/a>&lt;/h3>
+&lt;ul>
+&lt;li>サービス運用開始&lt;/li>
+&lt;li>移管後の問題対応・フィードバック収集&lt;/li>
+&lt;li>定例会議での運用改善議論&lt;/li>
+&lt;/ul>
+&lt;h3 id="25-ハイパーケア期間">2.5 ハイパーケア期間&lt;a class="td-heading-self-link" href="#25-%e3%83%8f%e3%82%a4%e3%83%91%e3%83%bc%e3%82%b1%e3%82%a2%e6%9c%9f%e9%96%93" aria-label="Heading self-link">&lt;/a>&lt;/h3>
+&lt;ul>
+&lt;li>運用開始後、&lt;strong>開発チームによるハイパーケアを2ヶ月間実施&lt;/strong>&lt;/li>
+&lt;li>ハイパーケア期間中は、開発チームと運用チームが密に連携し、運用上の課題を解決&lt;/li>
+&lt;li>&lt;strong>ハイパーケア完了基準を満たした場合、正式運用フェーズへ移行しハイパーケア終了&lt;/strong>&lt;/li>
+&lt;/ul>
+&lt;h4 id="ハイパーケア完了基準">ハイパーケア完了基準&lt;a class="td-heading-self-link" href="#%e3%83%8f%e3%82%a4%e3%83%91%e3%83%bc%e3%82%b1%e3%82%a2%e5%ae%8c%e4%ba%86%e5%9f%ba%e6%ba%96" aria-label="Heading self-link">&lt;/a>&lt;/h4>
+&lt;table>
+ &lt;thead>
+ &lt;tr>
+ &lt;th>項目&lt;/th>
+ &lt;th>基準値&lt;/th>
+ &lt;/tr>
+ &lt;/thead>
+ &lt;tbody>
+ &lt;tr>
+ &lt;td>バグ発生件数&lt;/td>
+ &lt;td>月間5件未満&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td>チケット発生件数&lt;/td>
+ &lt;td>月間50件未満&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td>残問題数&lt;/td>
+ &lt;td>3件以内&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td>ドキュメント引継ぎ率&lt;/td>
+ &lt;td>100%&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td>ナレッジトランスファー完了率&lt;/td>
+ &lt;td>100%&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td>シャドーイング完了率&lt;/td>
+ &lt;td>100%&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td>リバースシャドーイング完了率&lt;/td>
+ &lt;td>100%&lt;/td>
+ &lt;/tr>
+ &lt;/tbody>
+&lt;/table>
+&lt;h2 id="3-受領すべきドキュメント">3. 受領すべきドキュメント&lt;a class="td-heading-self-link" href="#3-%e5%8f%97%e9%a0%98%e3%81%99%e3%81%b9%e3%81%8d%e3%83%89%e3%82%ad%e3%83%a5%e3%83%a1%e3%83%b3%e3%83%88" aria-label="Heading self-link">&lt;/a>&lt;/h2>
+&lt;p>オンボーディング時には、以下のドキュメントを受領し、システム・運用情報の整理を行います。&lt;/p></description></item></channel></rss>

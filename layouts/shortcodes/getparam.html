@@ -1,5 +1,0 @@
-{{ if gt (len .Params) 0 }} {{ index .Site.Params.terms (.Get 0) }} {{ else }}
-<span style="color: red"
-  >Error: No parameter provided for getparam shortcode</span
->
-{{ end }}
